@@ -13,7 +13,8 @@ My GitHub page is http://github.com/shyankhazeni.
     Lab 6, part 1 was a favorite because I this was the first lab that
     produced a pattern which was one step closer to outputting a picture.
     I used the increment operator in a way that I have not thought of before
-    which expanded my ability to aproach problems.
+    which expanded my ability to aproach problems. I also enjoyed playing
+    around with different patterns.
 
 * Lab 6 Part 2
 
@@ -25,5 +26,6 @@ My GitHub page is http://github.com/shyankhazeni.
 * Lab 7 Part 1
 
     Lab 7, part 1 was a favorite because it taught me how to call functions.
-   his is a very important skill because it makes your code much more
-    organized and allows the function to be used many times. 
+    this is a very important skill because it makes your code much more
+    organized and allows the function to be used many times. This is a skill
+    that I will use forever.
