@@ -25,5 +25,5 @@ My GitHub page is http://github.com/shyankhazeni.
 * Lab 7 Part 1
 
     Lab 7, part 1 was a favorite because it taught me how to call functions.
-T   his is a very important skill because it makes your code much more
+   his is a very important skill because it makes your code much more
     organized and allows the function to be used many times. 
